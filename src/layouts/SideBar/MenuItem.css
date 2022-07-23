@@ -1,0 +1,18 @@
+.ant-drawer-close{
+  position: absolute;
+  right: 0;
+  z-index: 10;
+}
+
+.ant-drawer-body{
+  padding: 0 !important;
+}
+
+.ant-menu-title-content{
+  display: flex;
+  align-items: center;
+}
+
+.ant-menu-sub .ant-menu-item{
+  padding-left: 35px !important;
+}
